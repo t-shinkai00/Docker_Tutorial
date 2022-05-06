@@ -1,3 +1,0 @@
-[submodule "getting-started"]
-	path = getting-started
-	url = git@github.com:docker/getting-started.git
